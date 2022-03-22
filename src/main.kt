@@ -1,5 +1,5 @@
 fun main(){
- var y=myFun(arrayOf(3,4,5,6))
+ var y=myFun(arrayOf(4,8,5,6))
     println(y)
     var x = namba(arrayOf("Kenya", 36.2, 5.5, false  ))
     println(x)
